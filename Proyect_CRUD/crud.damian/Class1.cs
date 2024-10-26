@@ -1,4 +1,4 @@
-﻿namespace crud.damian
+﻿namespace market.domain
 {
     public class Class1
     {
