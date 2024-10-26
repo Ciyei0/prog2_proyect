@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace crud.Dtos
+namespace crud.Models
 {
     using System;
     using System.Data.Entity;
