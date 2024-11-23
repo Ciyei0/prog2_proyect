@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace market.domian.entities
 {
-    internal class Product
+    internal class Category
     {
         public string Name { get; set; }
-        public decimal Price { get; set; }
-        public int CategoryId { get; set; }
     }
 }
